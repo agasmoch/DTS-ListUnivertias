@@ -1,4 +1,35 @@
 <resources>
     <string name="app_name">List Wisata Jepang</string>
     <string name="nama_wisata">Nama Wisata</string>
+
+    <string-array name="namadata">
+        <item>Arashiyama</item>
+        <item>Fushimi</item>
+        <item>Gunung Fuji</item>
+        <item>Kiyomizu</item>
+        <item>Istana Osaka</item>
+        <item>Osaka Dotonbori</item>
+        <item>Sky Tree</item>
+    </string-array>
+
+    <string-array name="namadeskripsi">
+        <item>Arashiyama (嵐山 Storm Mountain) is a district on the western outskirts of Kyoto, Japan. It also refers to the mountain across the Ōi River, which forms a backdrop to the district. Arashiyama is a nationally designated Historic Site and Place of Scenic Beauty.</item>
+        <item>Fushimi Inari Taisha (伏見稲荷大社) adalah kuil Shinto yang berada di Fushimi-ku, Kyoto, Jepang. Kuil ini merupakan kuil pusat bagi sekitar 40.000 kuil Inari yang memuliakan Inari. Kuil utama (honden) terletak di kaki Gunung Inari, dan tanah milik kuil mencakup gunung yang tingginya 233 meter.</item>
+        <item>Gunung Fuji (富士山 Fuji-san, IPA: [ɸɯʥisaɴ]) adalah gunung tertinggi di Jepang, terletak di perbatasan Prefektur Shizuoka dan Yamanashi, di sebelah barat Tokyo. Gunung Fuji terletak dekat pesisir Pasifik di pusat Honshu. Fuji dikelilingi oleh tiga kota yaitu Gotemba (timur), Fuji-Yoshida (utara) dan Fujinomiya (barat daya). Gunung setinggi 3.776 m[1] ini dikelilingi juga oleh lima danau yaitu Kawaguchi, Yamanaka, Sai, Motosu dan Shoji.</item>
+        <item>Kiyomizu-dera (清水寺), officially Otowa-san Kiyomizu-dera (音羽山清水寺) merupakan kuil Budha kuno, yang dibangun pada tahun 798 dan sudah 10 kali mengalami kerusakan atau terbakar akibat perang atau bencana alam. Di belakang kuil utama terdapat kuil Jishu-jinja yang disebut dengan Dewa Perjodohan, dan di depan kuil terdapat 2 batu yang sering disebut "Batu Buta" dan "Batu Peramal Cinta".</item>
+        <item>Istana Osaka (大阪城 Ōsaka-jō) adalah istana yang terletak di dalam Taman Istana Osaka, distrik Chuo-ku, kota Osaka, Jepang. Istana Osaka berada di ujung paling sebelah utara daerah Uemachi, menempati lokasi tanah yang paling tinggi dibandingkan dengan wilayah sekelilingnya.</item>
+        <item>Dōtonbori (道頓堀) adalah pusat gastronomi, perbelanjaan dan hiburan di sisi selatan Kanal Dōtonbori, Osaka, Jepang. Di seruas jalan antara Jembatan Dōtonbori dan Jembatan Nipponbashi ini terdapat berbagai macam rumah makan dan fasilitas hiburan.</item>
+        <item>Tokyo Skytree (東京スカイツリー Tōkyō Sukai Tsurī, Pohon Langit Tokyo), sebelumnya disebut New Tokyo Tower (新東京タワー, Menara Tokyo Baru) adalah menara siaran, observasi, dan rumah makan di Sumida, Tokyo, Jepang. Menara ini telah menjadi struktur tertinggi di Jepang sejak tahun 2010,[2] dan mencapai ketinggian akhir 634 m pada bulan Maret 2011, sekaligus menjadikannya sebagai menara tertinggi di dunia, melampaui Menara Canton di Guangzhou,[3][4] dan merupakan struktur tertinggi nomor dua di dunia setelah Burj Khalifa (829,84 m).</item>
+    </string-array>
+
+    <string-array name="image">
+        <item>@drawable/Arashiyama</item>
+        <item>@drawable/Fushimi</item>
+        <item>@drawable/GunungFuji</item>
+        <item>@drawable/Kiyomizu</item>
+        <item>@drawable/OsakaCastle</item>
+        <item>@drawable/OsakaDotonbori</item>
+        <item>@drawable/SkyTree</item>
+    </string-array>
+
 </resources>
