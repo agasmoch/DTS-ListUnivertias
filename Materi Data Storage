@@ -1,0 +1,9 @@
+1. Data Temporary= Data hilang ketika ditutup (cache)
+2. Data persistemce= disimpan secara permanen
+ Content Provider (Xampp)
+ Shared Preferences=Menyimpan data primitive berupa key-value pairs
+ Bundle Class= memetakan data string dalam bentuk map
+ Internal Storage
+ -File Aplikasi akan selalu meminta izin untuk read/write
+ Langkah menulis file private ke Internal Storage
+ -Panggil 
