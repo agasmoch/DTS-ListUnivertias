@@ -23,13 +23,13 @@
     </string-array>
 
     <string-array name="image">
-        <item>@drawable/Arashiyama</item>
-        <item>@drawable/Fushimi</item>
-        <item>@drawable/GunungFuji</item>
-        <item>@drawable/Kiyomizu</item>
-        <item>@drawable/OsakaCastle</item>
-        <item>@drawable/OsakaDotonbori</item>
-        <item>@drawable/SkyTree</item>
+        <item>@drawable/arashiyama</item>
+        <item>@drawable/fushimi</item>
+        <item>@drawable/gunungfuji</item>
+        <item>@drawable/kiyomizu</item>
+        <item>@drawable/osakacastle</item>
+        <item>@drawable/osakadotonbori</item>
+        <item>@drawable/skytree</item>
     </string-array>
 
 </resources>

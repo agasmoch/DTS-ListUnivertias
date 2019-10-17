@@ -1,16 +1,20 @@
 package com.agasmochfauzan.listwisatajepang;
 
 public class Attribut {
-    int unage;
+    int image;
     String namawisata;
     String deskripsiwisata;
 
-    public int getUnage() {
-        return unage;
+    public Attribut () {
+
     }
 
-    public void setUnage(int unage) {
-        this.unage = unage;
+    public int getImage() {
+        return image;
+    }
+
+    public void setImage(int image) {
+        this.image = image;
     }
 
     public String getNamawisata() {
@@ -29,8 +33,8 @@ public class Attribut {
         this.deskripsiwisata = deskripsiwisata;
     }
 
-    public Attribut(int unage, String namawisata, String deskripsiwisata) {
-        this.unage = unage;
+    public Attribut(int image, String namawisata, String deskripsiwisata) {
+        this.image = getImage();
         this.namawisata = namawisata;
         this.deskripsiwisata = deskripsiwisata;//Konstraktor Attribut
 
